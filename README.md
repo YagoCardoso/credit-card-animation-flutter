@@ -1,4 +1,4 @@
-# 🔥 This is amazing card animation app with flutter 🔥
+# 🔥 Card animation app Com Flutter 🔥
 
 
 
